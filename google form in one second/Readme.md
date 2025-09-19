@@ -112,9 +112,3 @@ At the end of the script, the Apps Script log will display:
 
 Click the link to view/edit your quiz.
 
-```
-
----
-
-Do you want me to also include a **diagram/flowchart (in Mermaid)** in the README to show the script’s workflow?
-```
