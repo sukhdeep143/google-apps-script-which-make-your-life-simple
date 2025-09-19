@@ -1,8 +1,5 @@
 ---
 
-````markdown
-# Google Form Quiz Generator from CSV
-
 This Google Apps Script automatically creates a **Google Form Quiz** using questions stored in a CSV file on Google Drive.  
 It supports **MCQ, Checkbox, Text, Paragraph, Scale, Grid, Checkbox Grid, Date, Time, Image, Video, Section, and Page Break** question types.
 
