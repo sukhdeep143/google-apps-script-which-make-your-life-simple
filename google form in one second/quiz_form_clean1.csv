@@ -1,0 +1,14 @@
+Question,Type,Option1,Option2,Option3,Option4,CorrectAnswer,Points,Required,ShuffleOptions,Description,HelpText,ScaleMin,ScaleMax,GridRows,GridCols,MediaUrl
+What is 2+2?,MCQ,2,3,4,5,4,5,YES,YES,Simple math question,Pick the right answer,NO,NO,NO,NO,NO
+Select prime numbers,CHECKBOX,2,3,4,6,2;3,10,YES,NO,Multiple correct possible,Select all correct,NO,NO,NO,NO,NO
+What is your name?,TEXT,NO,NO,NO,NO,NO,NO,YES,NO,Enter your first name,Required field,NO,NO,NO,NO,NO
+Explain your career goals,PARAGRAPH,NO,NO,NO,NO,NO,NO,NO,NO,Describe your goals briefly,Optional,NO,NO,NO,NO,NO
+Rate your satisfaction,SCALE,NO,NO,NO,NO,NO,5,YES,NO,"1 = Poor, 5 = Excellent",Give honest rating,1,5,NO,NO,NO
+Match rows and columns,GRID,NO,NO,NO,NO,NO,NO,NO,NO,Match items properly,Grid practice,NO,NO,Apple|Banana,Red|Yellow,NO
+Pick multiple per row,CHECKBOX_GRID,NO,NO,NO,NO,NO,NO,NO,NO,Can pick multiple per row,Advanced grid,NO,NO,Q1|Q2|Q3,Yes|No|Maybe,NO
+Pick your birth date,DATE,NO,NO,NO,NO,NO,NO,YES,NO,Enter DOB,Date only,NO,NO,NO,NO,NO
+Pick a time,TIME,NO,NO,NO,NO,NO,NO,NO,NO,Enter preferred time,Time only,NO,NO,NO,NO,NO
+Look at this image,IMAGE,NO,NO,NO,NO,NO,NO,NO,NO,Sample Image Question,View carefully,NO,NO,NO,NO,https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png
+Watch this video,VIDEO,NO,NO,NO,NO,NO,NO,NO,NO,YouTube Video Example,Watch carefully,NO,NO,NO,NO,https://www.youtube.com/watch?v=dQw4w9WgXcQ
+General Knowledge SECTION,SECTION,NO,NO,NO,NO,NO,NO,NO,NO,Start of GK Section,NO,NO,NO,NO,NO,NO
+Next Page,PAGE_BREAK,NO,NO,NO,NO,NO,NO,NO,NO,Move to next page,NO,NO,NO,NO,NO,NO
